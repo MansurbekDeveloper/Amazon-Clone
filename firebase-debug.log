@@ -1,0 +1,25 @@
+[debug] [2020-12-19T18:46:11.184Z] ----------------------------------------------------------------------
+[debug] [2020-12-19T18:46:11.187Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-12-19T18:46:11.187Z] CLI Version:   8.17.0
+[debug] [2020-12-19T18:46:11.188Z] Platform:      win32
+[debug] [2020-12-19T18:46:11.188Z] Node Version:  v12.16.1
+[debug] [2020-12-19T18:46:11.190Z] Time:          Sat Dec 19 2020 23:46:11 GMT+0500 (GMT+05:00)
+[debug] [2020-12-19T18:46:11.190Z] ----------------------------------------------------------------------
+[debug] [2020-12-19T18:46:11.190Z] 
+[debug] [2020-12-19T18:46:11.201Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-12-19T18:46:11.204Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\User\Desktop\Clever_Programmer\Amazon_Clone_With_Clever_Programmer\amazon-clone
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
